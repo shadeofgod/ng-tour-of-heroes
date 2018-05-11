@@ -1,6 +1,8 @@
-# NgApp
+# Ng-Tour of heroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+
+[The compelete tutorial project of Angular.](https://angular.io/tutorial)
 
 ## Development server
 
