@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 [The compelete tutorial project of Angular.](https://angular.io/tutorial)
 
+Click [here](https://shadeofgod.github.io/ng-tour-of-heroes/) to check this project online.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
